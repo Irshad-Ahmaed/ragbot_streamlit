@@ -22,7 +22,7 @@ This repository contains the code for an interactive QA bot that uses Qdrant for
 
 # Deployment Instructions:
 
-## Use Virtual Environment (Recommended)
+### Use Virtual Environment (Recommended)
    - Create a new virtual environment using `python -m venv venv` command.
    - Activate virtual environment using `venv\Scripts\activate` (for Windows OS) command.
 
