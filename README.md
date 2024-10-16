@@ -19,7 +19,13 @@ This repository contains the code for an interactive QA bot that uses Qdrant for
 
 - Visit http://localhost:8501 in your browser to see the running app.
 
-# Deployment Instructions
+
+# Deployment Instructions:
+
+## Use Virtual Environment (Recommended)
+   - Create a new virtual environment using `python -m venv venv` command.
+   - Activate virtual environment using `venv\Scripts\activate` (for Windows OS) command.
+
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/Irshad-Ahmaed/ragbot_streamlit.git
