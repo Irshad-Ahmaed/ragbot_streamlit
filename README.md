@@ -9,9 +9,15 @@ This repository contains the code for an interactive QA bot that uses Qdrant for
 - Ask questions based on the PDF content.
 - Get responses using Cohere's language model.
 
+
 # Colab Notebook 🚀
    - https://colab.research.google.com/drive/12m2_bls0vHVHWvuLbDMF3f4nL3tUmsWh?usp=sharing
 
+# Live Link 🚀
+   ### Hosted on AWS
+   - http://13.51.196.211:8501
+
+   
 # How it tackle large dataset:
    - Used Batch processing for dealing with large datasets or documents. Here’s why it’s beneficial:
 
@@ -40,6 +46,7 @@ This repository contains the code for an interactive QA bot that uses Qdrant for
    - Helps in scaling up the processing of large documents without significant performance drops, ensuring the system remains responsive even with heavy workloads.
 
 ### Batch processing streamlines your entire pipeline, making it robust and scalable. 🚀
+
    
 # Steps to Build and Run the Docker Container 📶
 
@@ -51,9 +58,6 @@ This repository contains the code for an interactive QA bot that uses Qdrant for
 
 - Visit http://localhost:8501 in your browser to see the running app.
 
-# Live Link 🚀
-   ### Hosted on AWS
-   - http://13.51.196.211:8501
 
 # Deployment Instructions 📶
 
