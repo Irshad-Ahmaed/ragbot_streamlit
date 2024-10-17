@@ -19,6 +19,9 @@ This repository contains the code for an interactive QA bot that uses Qdrant for
 
 - Visit http://localhost:8501 in your browser to see the running app.
 
+# Live Link:
+   ### Hosted on AWS
+   - http://13.51.196.211:8501
 
 # Deployment Instructions:
 
