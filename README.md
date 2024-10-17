@@ -9,6 +9,9 @@ This repository contains the code for an interactive QA bot that uses Qdrant for
 - Ask questions based on the PDF content.
 - Get responses using Cohere's language model.
 
+# Colab Notebook 🚀
+   - https://colab.research.google.com/drive/12m2_bls0vHVHWvuLbDMF3f4nL3tUmsWh?usp=sharing
+   
 # Steps to Build and Run the Docker Container 📶
 
 ## Build the Docker Image:
