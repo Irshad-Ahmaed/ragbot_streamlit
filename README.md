@@ -9,7 +9,7 @@ This repository contains the code for an interactive QA bot that uses Qdrant for
 - Ask questions based on the PDF content.
 - Get responses using Cohere's language model.
 
-# Steps to Build and Run the Docker Container:
+# Steps to Build and Run the Docker Container 📶
 
 ## Build the Docker Image:
 - docker build -t qa-bot .
@@ -19,11 +19,11 @@ This repository contains the code for an interactive QA bot that uses Qdrant for
 
 - Visit http://localhost:8501 in your browser to see the running app.
 
-# Live Link:
+# Live Link 🚀
    ### Hosted on AWS
    - http://13.51.196.211:8501
 
-# Deployment Instructions:
+# Deployment Instructions 📶
 
 ### Use Virtual Environment (Recommended)
    - Create a new virtual environment using `python -m venv venv` command.
