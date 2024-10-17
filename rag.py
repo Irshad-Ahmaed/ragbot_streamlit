@@ -82,6 +82,8 @@ if uploaded_file is not None:
     # Split text into paragraphs and batch process embeddings
     paragraphs = [para for para in document_text.split('\n') if para.strip() != ""]
     embeddings = embed_text_batch(paragraphs)
+    # embeddings = [embed_text_batch(para) for para in paragraphs]
+    
     points = [
         PointStruct(id=i, vector=emb.tolist(), payload={"text": para})
         for i, (emb, para) in enumerate(zip(embeddings, paragraphs))
