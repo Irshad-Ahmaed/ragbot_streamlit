@@ -15,7 +15,7 @@ This repository contains the code for an interactive QA bot that uses Qdrant for
 
 # Live Link 🚀
    ### Hosted on AWS
-   - http://13.51.196.211:8501
+   - http://16.171.4.56:8501
 
    
 # How it tackle large dataset:
